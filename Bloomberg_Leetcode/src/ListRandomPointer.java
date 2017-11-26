@@ -10,6 +10,8 @@ class RandomListNode
      RandomListNode(int x) { this.label = x; }
 }
 
+
+
 public class ListRandomPointer {
     /*
     An intuitive solution is to keep a hash table for each node in the list,
